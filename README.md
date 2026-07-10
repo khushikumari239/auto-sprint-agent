@@ -1,1 +1,2 @@
 # auto-sprint-agent
+It's a little AI helper that sits in your dev chat. When someone types something like "we should build a dark mode toggle", the AI notices that phrase, and instead of just replying with text, it actually goes and creates a real ticket in Linear - your team's task tracker - with the message as the ticket title and a link back to it. So a random throwaway comment in chat automatically turns into a trackable to-do, without anyone manually opening Linear and typing it in.
