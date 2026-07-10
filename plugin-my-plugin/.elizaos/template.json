@@ -1,0 +1,42 @@
+{
+  "cliVersion": "2.0.3-beta.7",
+  "createdAt": "2026-07-10T05:45:46.334Z",
+  "language": "typescript",
+  "managedFiles": {
+    "README.md": "4bd5162b047a7c8255b55090317d4139df5574a298341d34fb2bb9b45c3eca0a",
+    "biome.json": "a47eae780bcce27127d0809e4995ea733c00ea12b9b3e4988b4833b2033298e1",
+    "build.ts": "1334876c2791e80c1eea6dd8027f0c4d5122aed3c1e12f36b3e5d3721bd2ce08",
+    "bunfig.toml": "dc807516440be577aed5d70434e9c7eb640a9e79056239d1a983ad5ea398a115",
+    "index.html": "9c9131556d04e0f90140ebe654a269b563d0c2ceacefe56fc7e02d2382f236a7",
+    "package.json": "e4d1f3561c59daed8edd2b6a9e0237df44d306eccc897579f20670a0db326fc5",
+    "postcss.config.js": "fa3221dd403a489632bf6a2fdf38137228f7c93c66e142a486f4980adb840f13",
+    "scripts/rm-path-recursive.mjs": "2ccc55c759d6056d4f9b0d479ef7b1dec01cf104d18ae8856fb022082bb553f7",
+    "src/__tests__/integration.test.ts": "41ad666f7ff8ce67bb96672d2839ad4f57755e93b63282af9b8bef665da445b0",
+    "src/__tests__/test-utils.ts": "f415a1bfe9c58290375f48a9d26ed1ca1c6244e0aa66b4c28ed46bb7cbc485b7",
+    "src/__tests__/vite-config-utils.ts": "03f7aa9d2b9a2e304d171705cb006499609f8198cf055b208f8201bfdd7e1e85",
+    "src/e2e/plugin-my-plugin.e2e.test.ts": "a878c2b6672f5150c3f66f751c65bec1deb7c0a5aac1f3b7a363c4aaf5acbf66",
+    "src/e2e/plugin-my-plugin.e2e.ts": "afdbf3d153da352619585529f7fd073f25e8f7c1e46280d7c3356d97170825d0",
+    "src/frontend/index.css": "b8f89490eeb01c433b561c375bbd75f3069d40a18ee5f24521bd1a4546a4616c",
+    "src/frontend/index.tsx": "5223cc40010686f754ff153faed50013d19a9a6b81fdf22c9693bc412d54e34a",
+    "src/frontend/utils.ts": "4acbc7165a8d54738ff62b51414e772c08fe78434e524e6d8770180d3ba2925f",
+    "src/index.ts": "92c624d28927a9df4df8c29ef1ed9838978627505467f2099e7f0bb8577a85cf",
+    "src/plugin.ts": "92e7a3e16dedeb576d6a2f5ba392f6463333de0c0327e118d939bbd8a3476297",
+    "src/vite-env.d.ts": "c4c1223417d3bbb6030da52ebbeeca371a2d442a164c23534d31e7435aa28204",
+    "tailwind.config.js": "3ca1c463ca31c7720b6a1aa0e0c6f7bf1473a42809cbd9334abe40ef4e16f982",
+    "tsconfig.build.json": "a5eb42a3477df008cecf4992e187a58c02294c78658331933099a1165d74e2a7",
+    "tsconfig.json": "e24bfc9def5fb05c3988b1997ec95fb940abf943ccb8f102b437c98a058118bc",
+    "vite.config.ts": "b0237ca4fbbcbd4e7781028fbec94c9a3ddf7d8db20900066d5b3c7f2eacd5ce"
+  },
+  "templateId": "plugin",
+  "templateVersion": 1,
+  "updatedAt": "2026-07-10T05:45:46.334Z",
+  "values": {
+    "displayName": "My Plugin",
+    "elizaVersion": "latest",
+    "githubUsername": "khushikumari239",
+    "pluginBaseName": "plugin-my-plugin",
+    "pluginDescription": "A custom plugin for auto-sprint-agent to handle automated tasks.",
+    "pluginSnake": "plugin_my_plugin",
+    "repoUrl": "https://github.com/khushikumari239/plugin-my-plugin"
+  }
+}
